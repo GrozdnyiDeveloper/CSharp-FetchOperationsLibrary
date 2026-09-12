@@ -1,0 +1,16 @@
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\obj\Debug\CRMPARK.FetchOperations.csproj.AssemblyReference.cache
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\obj\Debug\CRMPARK.FetchOperations.csproj.CoreCompileInputs.cache
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\CRMPARK.FetchOperations.dll
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\CRMPARK.FetchOperations.pdb
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\microsoft.identitymodel.dll
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\obj\Debug\CRMPARK.FetchOperations.dll
+C:\Users\kotko\source\repos\CRMPARK.FetchOperations\CRMPARK.FetchOperations\obj\Debug\CRMPARK.FetchOperations.pdb
+C:\Users\kotko\source\repos\CRMPark.FetchOperations\CRMPark.FetchOperations\obj\Debug\CRMPark..2F8AFE71.Up2Date
+C:\Users\kotko\source\repos\CRMPark.FetchOperations\CRMPark.FetchOperations\bin\Debug\System.ValueTuple.dll
+C:\Users\kotko\source\repos\CRMPark.FetchOperations\CRMPark.FetchOperations\bin\Debug\System.ValueTuple.xml
